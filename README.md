@@ -1,7 +1,9 @@
-# mitblr.club redirect
+# ycn.club redirect
 
-![Release](https://img.shields.io/github/v/release/mitblr-club/redirect)
-![Forks](https://img.shields.io/github/forks/mitblr-club/redirect?style=flat)
+![Release](https://img.shields.io/github/v/release/YCN-club/redirect)
+![Forks](https://img.shields.io/github/forks/YCN-club/redirect?style=flat)
+
+> ⚠️ **Notice:** This repository has been archived and will no longer receive updates (not like we expect it to, honestly). For further information on the project's status and brand identity, please refer to the [organization's README](https://github.com/orgs/YCN-club).
 
 It redirects, so... yeah.
 
